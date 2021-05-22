@@ -1,0 +1,15 @@
+{
+  "name": "cordova-plugin-js-action",
+  "version": "1.0.0",
+  "description": "cordova-plugin-js-action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gendaliu:genda980/cordova-plugin-js-action.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
