@@ -1,4 +1,4 @@
-package cordova-plugin-js-action;
+package org.apache.cordova.jsaction;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
